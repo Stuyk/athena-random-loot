@@ -6,7 +6,7 @@ Random Loot lets you specify a list of items into a generator and from the gener
 
 ### Download
 
-[Download the Archive](https://github.com/Stuyk/athena-random-loot/archive/refs/heads/master.zip)
+[Download the Archive](https://github.com/Stuyk/athena-random-loot/archive/refs/heads/main.zip)
 
 ### Move Folder
 
